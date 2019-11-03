@@ -1,5 +1,0 @@
-# ninja log v5
-0	300	1572811576	com.github.seekr.gtk-tut@exe/src/Application.c	1e82889f742a1097
-300	589	1572811576	com.github.seekr.gtk-tut@exe/meson-generated_src_Application.c.o	55143ed6151db1a
-600	706	1572811577	com.github.seekr.gtk-tut	c61f804c36540f45
-2	327	0	meson-install	9bd7faa9472bf40f
